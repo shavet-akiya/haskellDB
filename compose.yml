@@ -1,0 +1,11 @@
+services:
+  app:
+    image:
+    command:
+    ports:
+      - 127.0.0.1:3000:3000
+    working_dir: /app
+    volumes:
+    environment:
+      
+    

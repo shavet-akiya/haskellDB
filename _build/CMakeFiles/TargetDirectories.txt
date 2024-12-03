@@ -1,0 +1,3 @@
+C:/Users/bammi/Documents/haskell/basicWebDev/_build/CMakeFiles/mongoffi.dir
+C:/Users/bammi/Documents/haskell/basicWebDev/_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bammi/Documents/haskell/basicWebDev/_build/CMakeFiles/ZERO_CHECK.dir

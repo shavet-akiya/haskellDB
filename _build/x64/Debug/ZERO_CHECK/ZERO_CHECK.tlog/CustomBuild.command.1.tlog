@@ -1,0 +1,10 @@
+^C:\USERS\BAMMI\DOCUMENTS\HASKELL\BASICWEBDEV\_BUILD\CMAKEFILES\28911B4930D72410A4325CBB9624C897\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/bammi/Documents/haskell/basicWebDev -BC:/Users/bammi/Documents/haskell/basicWebDev/_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/bammi/Documents/haskell/basicWebDev/_build/MongoFFI.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

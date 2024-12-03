@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bammi\Documents\haskell\basicWebDev\_build\CMakeFiles\28911b4930d72410a4325cbb9624c897\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EBE1ED25-2E32-3E67-9D66-834E306CB417}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
